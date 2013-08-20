@@ -1,0 +1,61 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Array	EQB_main.rb	/^class Array$/;"	c
+Enumerable	EQB_main.rb	/^module Enumerable$/;"	m
+address	EQB_main.rb	/^  def address$/;"	f
+assigned_to	EQB_main.rb	/^  def assigned_to$/;"	f
+comp_ids	EQB_main.rb	/^  def comp_ids #comps is an array of ids$/;"	f
+comp_names	EQB_main.rb	/^  def comp_names  #array of names$/;"	f
+comp_names_string	EQB_main.rb	/^  def comp_names_string # a string$/;"	f
+comps	EQB_main.rb	/^  def comps(ment) #array of names, if you want a string use the other one$/;"	f
+comps_string	EQB_main.rb	/^  def comps_string(ment)$/;"	f
+contact_info_card	people_nubbins.rb	/^def contact_info_card(person)$/;"	f
+contact_info_cards	people_nubbins.rb	/^def contact_info_cards(person)$/;"	f
+contact_window	people_nubbins.rb	/^def contact_window(person, spouse_info)$/;"	f
+couple_info	people_nubbins.rb	/^def couple_info(person)$/;"	f
+create_htf_raw	creates.rb	/^def create_htf_raw$/;"	f
+create_ment_info	creates.rb	/^def create_ment_info$/;"	f
+create_name_flows	creates.rb	/^def create_name_flows(text, criteria)$/;"	f
+create_p_info	creates.rb	/^def create_p_info$/;"	f
+create_p_info	people_nubbins.rb	/^    def create_p_info$/;"	f	class:contact_window
+create_people_raw	creates.rb	/^def create_people_raw$/;"	f
+create_people_raw	people_nubbins.rb	/^    def create_people_raw$/;"	f	class:contact_window
+cup_fullname	EQB_main.rb	/^  def cup_fullname$/;"	f
+cup_name	EQB_main.rb	/^  def cup_name$/;"	f
+email	EQB_main.rb	/^  def email$/;"	f
+eqb_assignments	eqb_assignments.rb	/^def eqb_assignments$/;"	f
+eqb_people	eqb_people.rb	/^def eqb_people$/;"	f
+eqb_tools	eqb_tools.rb	/^def eqb_tools$/;"	f
+eqbuddy_tabs	eqbuddy_tabs.rb	/^def eqbuddy_tabs$/;"	f
+fam_ids	EQB_main.rb	/^  def fam_ids #fams is an array of ids$/;"	f
+fam_names	EQB_main.rb	/^  def fam_names #array of names$/;"	f
+fam_names_string	EQB_main.rb	/^  def fam_names_string # a string$/;"	f
+fams	EQB_main.rb	/^  def fams(ment) #array of names, if you want a string use the other one$/;"	f
+index_by	EQB_main.rb	/^  def index_by$/;"	f	class:Enumerable
+info_block_name	EQB_main.rb	/^  def info_block_name$/;"	f
+info_box_large	people_nubbins.rb	/^def info_box_large(person)$/;"	f
+is_married?	EQB_main.rb	/^  def is_married?$/;"	f
+ment_info	EQB_main.rb	/^  def ment_info$/;"	f
+ments_box	eqb_assignments.rb	/^  def ments_box$/;"	f
+ments_people	eqb_assignments.rb	/^  def ments_people$/;"	f
+name	EQB_main.rb	/^  def name$/;"	f
+p_info	EQB_main.rb	/^  def p_info$/;"	f
+phone	EQB_main.rb	/^  def phone$/;"	f
+photo	people_nubbins.rb	/^def photo(person)$/;"	f
+photo_stack	people_nubbins.rb	/^def photo_stack(person)$/;"	f
+refresh_people_tab	people_nubbins.rb	/^def refresh_people_tab(person)$/;"	f
+save_and_reload	people_nubbins.rb	/^def save_and_reload$/;"	f
+save_and_reload_ments	people_nubbins.rb	/^def save_and_reload_ments(opt)$/;"	f
+save_and_reload_people	people_nubbins.rb	/^def save_and_reload_people(opt)$/;"	f
+search_elems	EQB_main.rb	/^  def search_elems # A string of info for searching$/;"	f
+sidebar	eqb_people.rb	/^  def sidebar$/;"	f
+spouse	EQB_main.rb	/^  def spouse$/;"	f
+taught_by	EQB_main.rb	/^  def taught_by$/;"	f
+taught_stat	EQB_main.rb	/^  def taught_stat$/;"	f
+teaches_stat	EQB_main.rb	/^  def teaches_stat$/;"	f
+to_sentence_like	EQB_main.rb	/^  def to_sentence_like$/;"	f	class:Array
+tool_buttons	eqb_tools.rb	/^  def tool_buttons$/;"	f

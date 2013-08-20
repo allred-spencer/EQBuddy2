@@ -1,0 +1,199 @@
+user_id,pref_name,first_name,last_name,gender,spouse_id,children,street_address,phone_number,email_address,ments_count,receives,stat1,stat2,assign_ments,teachers_ment,comment,which_photo,lds_id,lds_vals
+user001,KC,Kay,Erb,Male,user002,"",752 E. 800 S. APT 17,801-554-8253,iamkcerb@gmail.com,1,true,"","",0xb51141p,sdqru496l,"OK, these guys are super awesome! Super reliable and very friendly.",b,5690149565,true
+user002,Shelyse,Shelyse,Hardy,Female,user001,"",752 E. 800 S. APT 17,385-414-5571,lysehardy@gmail.com,0,true,"","","","",super awesome,a,6081369803,true
+user003,Rick,Rick,Wilde,Male,user004,"",949 E 800 S #12,"",rkwilde@gmail.com,2,true,"","","l0rqs34j4,s44p98pj1",ment001,"Cute Bunnies!! And what's more, they are fluffly and nice haha haha ha!",a,6002476189,true
+user004,Sarah,Sarah,Wilde,Female,user003,"",949 E 800 S #12,"","",1,true,"","",l0rqs34j4,"","",a,6093068486,true
+user005,Oliver,Oliver,Proegler,Male,"","",1046 Lincoln St,801-361-4526,"",1,false,"","","","",Oliver is German! But that doesn't mean he doesn't like yous.,b,18756570901,true
+ihufup4do,Cory,Cory,Erb,Male,p8ojciihu,"Erb, Adele","",801-554-8254,cory.erb@gmail.com,1,true,"","",0xb51141p,"",Feigned Flying Felines Fixate Few Females.,b,"",true
+p8ojciihu,Sharlie,Sharlie,Erb,Female,ihufup4do,"Erb, Adele",,"",sharcor@mail.com,0,"","","","","","",a,"",true
+769iezufc,James,Jamison,Hall,Male,pz6qef0b9,"","",,"",1,true,"","","",ment001,comments,a,"",true
+pz6qef0b9,Caitlin,Caitlin,Hall,Female,769iezufc,"",,"","",0,"","","","","","",a,"",true
+d2dvp1qnn,Josh,Joshua,Moreland,Male,a7sk6ocsq,"",764 S 1000 E,832-865-9959,joshuamoreland@gmail.com,1,true,"","",s44p98pj1,ment001,"",a,19682416332,true
+a7sk6ocsq,Ashley,Ashley,Moreland,Female,d2dvp1qnn,"",764 S 1000 E,713-408-0890,ashley.moreland29@gmail.com,0,"","","","","","",a,24597305253,true
+8xwsg5tks,Jami,Jami,Baayd,Female,gx81wykbk,"Baayd, Amira Elizabeth; Baayd, Norah Aziza; Baayd, Naim Joseph",1041 McClelland St.,801-234-0245,"",0,"","","","","","",a,717341301,true
+gx81wykbk,Mohamed,Mohamed,Baayd,Male,8xwsg5tks,"Baayd, Amira Elizabeth; Baayd, Norah Aziza; Baayd, Naim Joseph",1041 McClelland St.,801-358-0254,mbaayd@gmail.com,0,true,"","",ment001,0xb51141p,"",a,8276083430,true
+ov7worhsx,Dan,Daniel,Allen,Male,u0dn1d1q6,"",958 S 800 E,435-512-2364,dandja@msn.com,1,true,"","",ment001,"","",a,1568891592,true
+u0dn1d1q6,Megan,Megan,Allen,Female,ov7worhsx,"",958 S 800 E,801-598-3337,mardi_zaza@yahoo.com,0,"","","","","","",a,1276709587,true
+1hwj31k68,Robert,Robert,Aamodt,Male,h08ehvd0a,"Aamodt, Matthew Sean",1021 Williams Avenue,801 604-8348,rlaamodt@yahoo.com,0,"","","","","","",a,512441832,true
+h08ehvd0a,Diane,Diane,Aamodt,Female,1hwj31k68,"Aamodt, Matthew Sean",1021 Williams Avenue,801 638-1941,aamodtdiane@yahoo.com,0,"","","","","","",a,512441832,true
+ieffasrdc,Shirley,Shirley,Aldous,Female,"","",978 Herbert  Avenue,"","",0,"","","","","","",a,511790103,true
+etacbjtlb,Sheila,Sheila,Alford,Female,"","",764 S 800 E #209,"","",0,"","","","","","",a,3262274236,true
+2uk2qq6f7,Judy,Judy,Allen,Female,"","",732 S 1000 E,"","",0,"","","","","","",a,5069994525,true
+ed7v19z8r,Keyla,Keyla,Allen,Female,"","",817 E 800 S,(801) 651-6182,"",0,"","","","","","",a,25491315246,true
+tzgdl7vy8,Spencer,Spencer,Allred,Female,wgujhpq1i,"Allred, Audrie Mae",1038 South 1100 East,801-730-1151,"",0,"","","","","","",a,19682368165,true
+wgujhpq1i,Michelle,Michelle,Allred,Male,tzgdl7vy8,"Allred, Audrie Mae",1038 South 1100 East,"","",0,"","","","","","",a,19682368165,true
+dsjrb33ii,Glenn,Glenn,Ambort,Female,"","","Salt Lake City, Utah 84102","","",0,"","","","","","",a,1130778322,true
+a7ktbx7at,Ian,Ian,Anderson,Female,"","","954 S 800 E, #c","","",0,"","","","","","",a,532950161,true
+xh9jw7g81,Terry,Terry,Anderson,Female,4msfufh9y,"",940 McClelland Street,"","",0,"","","","","","",a,511457849,true
+4msfufh9y,Theresa,Theresa,Gonzales,Male,xh9jw7g81,"",940 McClelland Street,"","",0,"","","","","","",a,511457849,true
+bd3h3zgh2,Aubrey,Aubrey,Andrus,Female,"","",968 S 1100 E,"","",0,"","","","","","",a,326833738,true
+eiu6opkzq,Bernard,Bernard,Anjewierden,Female,173pb33h9,"",1069 Lincoln Street,801-673-4925,"",0,"","","","","","",a,20290914958,true
+173pb33h9,Penny,Penny,Anjewierden,Male,eiu6opkzq,"",1069 Lincoln Street,801-652-1590,"",0,"","","","","","",a,20290914958,true
+yklgjyur3,Natalie,Natalie,Annen,Female,"","",1023 South 800 East,"","",0,"","","","","","",a,453911063,true
+jsuqgk9pb,Ray,Ray,Archuleta,Female,ml96yfv3f,"",724 E 700 S Apt. B,"",mos241sam@hotmail.com,0,"","","","","","",a,1968199954,true
+ml96yfv3f,Ashley,Ashley,Archuleta,Male,jsuqgk9pb,"",724 E 700 S Apt. B,801-243-4416,astolman12@yahoo.com,0,"","","","","","",a,1968199954,true
+dk287wmdt,Tom,Tom,Armstrong,Female,l053y3ell,"",958 S. 900 E.,"",tdarmstrong111@yahoo.com,0,"","","","","","",a,982230311,true
+l053y3ell,Sheri,Sheri,Armstrong,Male,dk287wmdt,"",958 S. 900 E.,714-293-8764,money.sheri@gmail.com,0,"","","","","","",a,982230311,true
+ms5j643i8,Stanley,Stanley,Ashley,Female,0vt3pcdcu,"",UNKNOWN,"","",0,"","","","","","",a,2853351151,true
+0vt3pcdcu,Evangline,Evangline,Ashley,Male,ms5j643i8,"",UNKNOWN,"","",0,"","","","","","",a,2853351151,true
+nh0of004l,Chad,Chad,Bailey,Female,ngepbxe7e,"Bailey, Sloan",815 Yale Ave - Apt A,"","",0,"","","","","","",a,1430045791,true
+ngepbxe7e,Jonna,Jonna,Bailey,Male,nh0of004l,"Bailey, Sloan",815 Yale Ave - Apt A,"","",0,"","","","","","",a,1430045791,true
+xj2wa1aw0,Roger,Roger,Baker,Female,hbq1o28q4,"",1004 S 1000 E,"",rogandkris1@msn.com,0,"","","","","","",a,511463747,true
+hbq1o28q4,Kristie,Kristie,Baker,Male,xj2wa1aw0,"",1004 S 1000 E,801-718-7924,rogandkris1@msn.com,0,"","","","","","",a,511463747,true
+s8buxp6ae,Dick,Dick,Baldwin,Female,1yrhmxmqo,"",940 S Lincoln St #1,"","",0,"","","","","","",a,3147088262,true
+1yrhmxmqo,Sara,Sara,Baldwin,Male,s8buxp6ae,"",940 S Lincoln St #1,"","",0,"","","","","","",a,3147088262,true
+22r4o9z0u,Bryan,Bryan,Bale,Female,zg2pvhkqr,"",1058 E 700 S,"","",0,"","","","","","",a,448715908,true
+zg2pvhkqr,Edna,Edna,Bale,Male,22r4o9z0u,"",1058 E 700 S,"","",0,"","","","","","",a,448715908,true
+g61zf4s0f,Amy,Amy,Ballard,Female,"","",961 So. Lake St.,"","",0,"","","","","","",a,3593729057,true
+pu2qe1fxt,Luke,Luke,Baptiste,Female,"","Baptiste, Jacob Tristan Paul; Baptiste, Malachi",918 E 900 S,"","",0,"","","","","","",a,19150734241,true
+mxsq377zk,Lindsay,Lindsay,Barlow,Female,"","",931 Lincoln Street,"","",0,"","","","","","",a,692412421,true
+agsjfucx1,Ruth,Ruth,Barnes,Female,"","",1063 S 900 E,479-616-2841,ruthbarnes2002@gmail.com,0,"","","","","","",a,20604677745,true
+57iwfhjn8,Craig,Craig,Barritz,Female,ete5m99xm,"",929 S  800 E,"","",0,"","","","","","",a,2826182997,true
+ete5m99xm,Denet,Denet,Barritz,Male,57iwfhjn8,"",929 S  800 E,"","",0,"","","","","","",a,2826182997,true
+rj3cqplr0,David,David,Baty,Female,"","",976 E 700 S #1,"","",0,"","","","","","",a,1409594476,true
+qf20s2ga9,Dwaine,Dwaine,Beebe,Female,okao8d078,"",740 Lake St,"",DWAINEBEEBE@YAHOO.COM,0,"","","","","","",a,434269740,true
+okao8d078,Vicky,Vicky,Beebe,Male,qf20s2ga9,"",740 Lake St,"","",0,"","","","","","",a,434269740,true
+5zhke68mw,Lioudmilla,Lioudmilla,Belkind,Female,"","",764 S 800 E #322,"","",0,"","","","","","",a,2453275066,true
+w888lownx,Jeff,Jeff,Bennett,Female,"","",918 S 900 E,"",lukiny77@yahoo.com,0,"","","","","","",a,2360041448,true
+rmev09syq,John,John,Benson,Female,"","",764 S 800 E #226,"","",0,"","","","","","",a,7217996975,true
+725jtacnm,Joyce,Joyce,Beverley,Female,"","",833 Lake St,"","",0,"","","","","","",a,434268757,true
+5405tgkyg,Larry,Larry,Bishop,Female,hfueal5t1,"",839 S 700 E,"","",0,"","","","","","",a,456275178,true
+hfueal5t1,Mary,Mary,Bishop,Male,5405tgkyg,"",839 S 700 E,"","",0,"","","","","","",a,456275178,true
+cziefvoez,David,David,Bisson,Female,"","",863 Yale Ave,"","",0,"","","","","","",a,3731861200,true
+fnuueszcg,Kristian,Kristian,Blomquist,Female,u4781w1us,"",1000 S 1100 E,"","",0,"","","","","","",a,2307071510,true
+u4781w1us,Bonnie,Bonnie,Blomquist,Male,fnuueszcg,"",1000 S 1100 E,"",bonnieb30@hotmail.com,0,"","","","","","",a,2307071510,true
+l7ybyb93o,Lisa,Lisa,Boice,Female,"","",776 Noble Pl,"","",0,"","","","","","",a,3022942243,true
+xq0xc451a,Rama,Rama,Bowen,Female,4iydkeoxl,"Bowen, Kaydon Mars",739 S 800 E,"","",0,"","","","","","",a,3276401912,true
+4iydkeoxl,Kelli,Kelli,Atta,Male,xq0xc451a,"Bowen, Kaydon Mars",739 S 800 E,"","",0,"","","","","","",a,3276401912,true
+s02ughhyp,Clara,Clara,Bowles,Female,"","",764 S 800 E #327,"","",0,"","","","","","",a,5542159898,true
+uywop47nc,Chad,Chad,Bowman,Female,"","",801 S 900 E,"","",0,"","","","","","",a,426739960,true
+6qn51ngdu,Michael,Michael,Bowman,Female,"","",801 South 900 East,"","",0,"","","","","","",a,6351791137,true
+nqupv4pgg,Susan,Susan,Brady,Female,"","",867 South 900 East,"","",0,"","","","","","",a,425391284,true
+ddy4j0bq4,Spencer,Spencer,Bridges,Female,"","",903 S 1000 E,"","",0,"","","","","","",a,484067537,true
+tkx7hyko1,Barbara,Barbara,Brisco,Female,"","",704 E 900 S,801-557-2221,bdbrisco@aol.com,0,"","","","","","",a,1108332500,true
+fjff94wjb,Howard,Howard,Brough,Female,"","",753 South 900 East,"","",0,"","","","","","",a,426046945,true
+rg5pta9l6,Carol,Carol,Brown,Female,"","",962 Herbert Avenue,"","",0,"","","","","","",a,513452356,true
+arw8w1tcj,Douglas,Douglas,Brown,Female,"","",983 S 900 E,"","",0,"","","","","","",a,2107175511,true
+53wv7ymsm,Marin,Marin,Bryce,Female,"","",823 S 700 E (Back),"","",0,"","","","","","",a,3740249139,true
+pbzv8d550,Lawrence,Lawrence,Buhler,Female,z118cq1vx,"",1021 Lincoln St,"","",0,"","","","","","",a,3775623377,true
+z118cq1vx,Isabelle,Isabelle,Kugner,Male,pbzv8d550,"",1021 Lincoln St,"","",0,"","","","","","",a,3775623377,true
+p9eosxlpt,Brandon,Brandon,Bullough,Female,f8gjmwyjs,"",739 E 900 S,801-928-9309,brandonbullough@gmail.com,0,"","","","","","",a,20787953180,true
+f8gjmwyjs,Michelle,Michelle,Bullough,Male,p9eosxlpt,"",739 E 900 S,801-400-8981,micillustration@gmail.com,0,"","","","","","",a,20787953180,true
+jvbln4mgk,Bonita,Bonita,Bunyard,Female,"","",771 Nobel Pl,"",Bonsbons29@yahoo.com,0,"","","","","","",a,5584582246,true
+7c5e96i57,Jean,Jean,Burnett,Female,"","",938 Herbert Avenue,"","",0,"","","","","","",a,511451951,true
+hpoyw6vup,Kerri,Kerri,Burrows,Female,"","","","","",0,"","","","","","",a,502128196,true
+1s5i49i6v,Betty,Betty,Cahoon,Female,"","",947 Lowell Avenue,"","",0,"","","","","","",a,426723249,true
+ygs3msjlz,Jared,Jared,Caldwell,Female,"","",767 S 1000 E,"","",0,"","","","","","",a,2474255235,true
+loxnyulaw,Margie,Margie,Calhoun,Female,"","",764 S 800 E #206,"","",0,"","","","","","",a,2288545892,true
+fgcr1pv7p,Paul,Paul,Cammack,Female,"","",936 S Lincoln St. #1,"","",0,"","","","","","",a,3011196376,true
+39wdfh0h3,Carol,Carol,Cannon,Female,"","",764 S 800 E #227,"","",0,"","","","","","",a,434569555,true
+7d1x017l1,Welles,Welles,Cannon,Female,1vbm3xmes,"",981 E Belmont Ave,"","",0,"","","","","","",a,561224190,true
+1vbm3xmes,Muriel,Muriel,Cannon,Male,7d1x017l1,"",981 E Belmont Ave,"","",0,"","","","","","",a,561224190,true
+f242c4sg1,Jacob,Jacob,Cardall,Female,"","",938 Windsor St,"","",0,"","","","","","",a,3715272092,true
+7ptn01llk,Angela,Angela,Carlson,Female,"","",818 S 800 E,"","",0,"","","","","","",a,436958245,true
+8ygt66ga3,Edna,Edna,Carter,Female,"","",764 S 800 E #321,"","",0,"","","","","","",a,433928639,true
+ba4kwdiob,Bruce,Bruce,Casper,Female,2s5shk26b,"Casper, Michael James; Casper, Peter Tulloch-Graham",737 Mcclelland St,"","",0,"","","","","","",a,6469210487,true
+2s5shk26b,Rachel,Rachel,Casper,Male,ba4kwdiob,"Casper, Michael James; Casper, Peter Tulloch-Graham",737 Mcclelland St,"","",0,"","","","","","",a,6469210487,true
+xj8r3asta,Jonathan,Jonathan,Casper,Female,"","",737 Mcclelland St,801-882-0505,u0607817@utah.edu,0,"","","","","","",a,426059724,true
+bri0qglpc,Amy,Amy,Castillo,Female,"","",953 McClelland St.,"","",0,"","","","","","",a,6191139447,true
+prk14sh1c,Gretchen,Gretchen,Casto,Female,"","",1054 S 800 E,"","",0,"","","","","","",a,7770439043,true
+g1usmba1m,Penny,Penny,Catanzaro,Female,"","",918 Herbert Avenue,"","",0,"","","","","","",a,465862377,true
+axq0xai2k,Virginia,Virginia,Chandler,Female,"","",1013 S. 800 E.,"","",0,"","","","","","",a,1115118149,true
+lvgz5il6j,Lillian,Lillian,Chatterton,Female,"","",821 E 900 S,"","",0,"","","","","","",a,436964143,true
+q4tqm10r6,Ryan,Ryan,Chidester,Female,"","",1046 South 900 East  #D,"","",0,"","","","","","",a,2275547683,true
+29mqp8ke1,Brenda,Brenda,Christensen,Female,"","",819 E 800 S,"","",0,"","","","","","",a,434935231,true
+xct37h9s2,Emily,Emily,Christensen,Female,"","Christensen, Willow",859 South 900 East,801-548-4106,zikafus@yahoo.com,0,"","","","","","",a,21208440277,true
+xfzxzoh7k,Rodger,Rodger,Christensen,Female,1p4j9fo3v,"",937 S Lake,"","",0,"","","","","","",a,4907702208,true
+1p4j9fo3v,Marsha,Marsha,Christensen,Male,xfzxzoh7k,"",937 S Lake,"","",0,"","","","","","",a,4907702208,true
+w3ipipu88,Earl,Earl,Clampitt,Female,"","",742 Lake St,"","",0,"","","","","","",a,6465108428,true
+gpocti3wj,Gary,Gary,Clark,Female,"","",1013 South 900 East,"","",0,"","","","","","",a,20702919748,true
+jbpgrs07x,Jerry,Jerry,Clark,Female,"","",1035 Belmont Avenue,"","",0,"","","","","","",a,5560259877,true
+99o4p7y6o,Rocaleta,Rocaleta,Clarke,Female,"","",752 E 800 S #20,"",melrocgirl@yahoo.com,0,"","","","","","",a,7011479488,true
+mptqmzx8i,Sarah,Sarah,Clemensen,Female,"","",1030 S 900 E,"","",0,"","","","","","",a,19690350125,true
+xin061tq6,Brett,Brett,Clifford,Female,"","",949 South 900 East,"","",0,"","","","","","",a,7793365552,true
+8nrg29cln,Shawn,Shawn,Cochran,Female,"","",866 S 1100 E,"","",0,"","","","","","",a,1726480254,true
+spv04niuv,Angela,Angela,Collins,Female,"","",938 s 800 e #2,"","",0,"","","","","","",a,1586856900,true
+w2o5wbdl6,Vito,Vito,Colombo,Female,"","",739 South 700 East Apt #9,"","",0,"","","","","","",a,20879537324,true
+2npjhapns,Samuel,Samuel,Compton,Female,"","",747 E 700 S,"","",0,"","","","","","",a,3340074754,true
+pk93vww8g,David,David,Cook,Female,f5fnvbc47,"",717 South 900 East #2,"",davecook@myldsmail.net,0,"","","","","","",a,20398663554,true
+f5fnvbc47,Richelle,Richelle,Cook,Male,pk93vww8g,"",717 South 900 East #2,"",rmcguire87@gmail.com,0,"","","","","","",a,20398663554,true
+js3nwevm3,Melinda,Melinda,Cook,Female,"","",834 Lincoln St,"","",0,"","","","","","",a,1984328035,true
+cge63p92a,Troy,Troy,Cook,Female,"","",834 Lincoln Ave,"","",0,"","","","","","",a,3258827838,true
+224wa2cxb,Samantha,Samantha,Coon,Female,"","",1450 S West Temple,"",Sammyjanecoon@Gmail.com,0,"","","","","","",a,3731906418,true
+6wp5i034x,Justin,Justin,Cooper,Female,8bp8f5a77,"",1021 E Lowell Ave.,407-765-5541,coopdawg404@hotmail.com,0,"","","","","","",a,3080331749,true
+8bp8f5a77,Cindy,Cindy,Cooper,Male,6wp5i034x,"",1021 E Lowell Ave.,"",cinnict@hotmail.com,0,"","","","","","",a,3080331749,true
+f06ei4pmc,Angel,Angel,Cordero,Female,"","",975 South 700 East,"","",0,"","","","","","",a,440308309,true
+8lwncxylf,Jon,Jon,Cornell,Female,vrjdapa2h,"",962 S Windsor St,"","",0,"","","","","","",a,5544935890,true
+vrjdapa2h,Shaney,Shaney,Cornell,Male,8lwncxylf,"",962 S Windsor St,"","",0,"","","","","","",a,5544935890,true
+y32f8cwxi,Dan,Dan,Cowan,Female,3x0d3wkyg,"",949 E 800 S #13,801-828-0459,"",0,"","","","","","",a,325829112,true
+3x0d3wkyg,Chelsea,Chelsea,Cowan,Male,y32f8cwxi,"",949 E 800 S #13,"",chelsea.milward@aggiemail.usu.edu,0,"","","","","","",a,325829112,true
+th5hi5hjo,Johnathon,Johnathon,Cox,Female,0zajoa4id,"",726 South 900 East #A2,"","",0,"","","","","","",a,5624265956,true
+0zajoa4id,Michelle,Michelle,Cox,Male,th5hi5hjo,"",726 South 900 East #A2,"","",0,"","","","","","",a,5624265956,true
+t0vpfuzxm,Michael,Michael,Cox,Female,"","",955 Lincoln St  Apt 3,"","",0,"","","","","","",a,20290915941,true
+p3zu9dd1r,Michael,Michael,Cramer,Female,"","","979 South Lake St., #2","","",0,"","","","","","",a,2399669127,true
+izkv5rber,Arwen,Arwen,Crosby,Female,"","",1052 Lake St,"","",0,"","","","","","",a,3277001542,true
+d1wdzf8y2,Alan,Alan,Crow,Female,"","",775 E 900 S,"","",0,"","","","","","",a,314981707,true
+wkxgms8k6,Craig,Craig,Crow,Female,"","",842 S 1100 E,"","",0,"","","","","","",a,314984656,true
+2q7b3cfqy,Anne,Anne,Curtis,Female,"","",806 S 800 E,"","",0,"","","","","","",a,316121987,true
+swu4fybhn,Dan,Dan,Curtis,Female,eqj0pgaq3,"Curtis, Charlotte Anne",989 MCClelland St.,"",u0700138@utah.edu,0,"","","","","","",a,457754593,true
+eqj0pgaq3,Anne,Anne,Curtis,Male,swu4fybhn,"Curtis, Charlotte Anne",989 MCClelland St.,"","",0,"","","","","","",a,457754593,true
+dmk7mkr6q,Diane,Diane,Dal Ponte,Female,"","Jones, Kaya Shay",1076 E 900 S,"","",0,"","","","","","",a,477653462,true
+kl03l11jh,Kyson,Kyson,Dana,Female,gkhsm5t0g,"",1056 Lincoln St,208-206-0098,"",0,"","","","","","",a,677929882,true
+gkhsm5t0g,Sara,Sara,Dana,Male,kl03l11jh,"",1056 Lincoln St,208-206-8274,whatsupwiththehomieg@hotmail.com,0,"","","","","","",a,677929882,true
+jjjqed0s7,Stacy,Stacy,Darden,Female,"","",921 S 900 E,"","",0,"","","","","","",a,4989127047,true
+mxw7kuqrq,Dan,Dan,Davidson,Female,celkkvhff,"",828 South 1100 East,"","",0,"","","","","","",a,426726198,true
+celkkvhff,Carolyn,Carolyn,Davidson,Male,mxw7kuqrq,"",828 South 1100 East,"","",0,"","","","","","",a,426726198,true
+bvyvfepxk,Amy,Amy,Davis,Female,"","",982 Lincoln St.,"",amydavisski@gmail.com,0,"","","","","","",a,941292293,true
+f5n6klwma,Helen,Helen,Davis,Female,"","",764 South 800 East #101 Hamilton Place,"","",0,"","","","","","",a,498912803,true
+f866kkkhq,Janice,Janice,Davis,Female,"","",1055 South 1000 East,"","",0,"","","","","","",a,511133459,true
+naio8s1ru,Mae,Mae,Davis,Female,"","",Hamilton Place,801-357-4356,"",0,"","","","","","",a,19674455015,true
+vaacr52yf,Max,Max,Dean,Female,"","",625 East 800 South,"",maxmakesmillions@hotmail.com,0,"","","","","","",a,1551313586,true
+rsnx9wf1d,Tom,Tom,Denison,Female,w201fp3ig,"Denison, Kellor Clyde; Denison, Ryann Grace",1009 McClelland Street,"","",0,"","","","","","",a,20623219091,true
+w201fp3ig,Stacey,Stacey,Denison,Male,rsnx9wf1d,"Denison, Kellor Clyde; Denison, Ryann Grace",1009 McClelland Street,"",staceydenison@hotmail.com,0,"","","","","","",a,20623219091,true
+b0vau7olr,Braden,Braden,Deters,Female,"","",927 E. 800 S. Apt. 2,"","",0,"","","","","","",a,2914255865,true
+ej6dkio16,Bradley,Bradley,Dobson,Female,"","",717 South 800 East,"","",0,"","","","","","",a,7862572684,true
+c2abi3gnv,Denise,Denise,Dougherty,Female,"","",775 Noble Place,"","",0,"","","","","","",a,948441652,true
+04rukl6f0,James,James,Dublinski,Female,i0uy84pxq,"",723 S 900 E,"",jimmydslc@aol.com,0,"","","","","","",a,889840107,true
+i0uy84pxq,Ardys,Ardys,Dublinski,Male,04rukl6f0,"",723 S 900 E,"","",0,"","","","","","",a,889840107,true
+lmxqofup8,Shannon,Shannon,Duerig,Female,"","",801 Mcclelland St Apt D,"","",0,"","","","","","",a,5558972147,true
+s0p2u1goj,Katherine,Katherine,Duncan,Female,"","",730 S WINDSOR ST,"",kat_miller416@hotmail.com,0,"","","","","","",a,6722061679,true
+c78pdjeuk,Justin,Justin,Dunkley,Female,"","",768 E 900 S #1,"","",0,"","","","","","",a,3610182511,true
+q8ponc552,Joseph,Joseph,Dutson,Female,ue2sjs8f6,"",747 s 800 E Appt. #5,"",natco016@yahoo.com,0,"","","","","","",a,3643557327,true
+ue2sjs8f6,Emily,Emily,Dutson,Male,q8ponc552,"",747 s 800 E Appt. #5,801-633-4680,lenora247@hotmail.com,0,"","","","","","",a,3643557327,true
+mjsrg5zib,Christian,Christian,Earl,Female,"","",717 South 800 East,"","",0,"","","","","","",a,7851059788,true
+phd04enn5,Matt,Matt,Enfield,Female,"","",1046 Lincoln Ave.,"","",0,"","","","","","",a,513705970,true
+zk5fo9nbq,Maynard,Maynard,Ericksen,Female,h42psdug3,"",771 S 700 E,"","",0,"","","","","","",a,433926673,true
+h42psdug3,Jeannine,Jeannine,Ericksen,Male,zk5fo9nbq,"",771 S 700 E,"","",0,"","","","","","",a,433926673,true
+i4uuotm3n,Ricky,Ricky,Everett,Female,"","",1066 E 700 S,"","",0,"","","","","","",a,425721572,true
+4zjr5yjyz,Abigail,Abigail,Eyre,Female,"","",1057 S. 900 E. #3,"","",0,"","","","","","",a,1753112673,true
+kkx3bhcor,Ammon,Ammon,Eyre,Female,"","",1057 S 900 E #3,"","",0,"","","","","","",a,5933102930,true
+z4xrfwadc,Andy,Andy,Eyre,Female,"","",1057 S 900 E APT 3,"","",0,"","","","","","",a,1753110707,true
+nzqyu6u2y,Bill,Bill,Fagergren,Female,sl4w0xc8s,"Fagergren, Kate; Fagergren, William",1024 Herbert Avenue,"","",0,"","","","","","",a,306300834,true
+sl4w0xc8s,Jennifer,Jennifer,Fagergren,Male,nzqyu6u2y,"Fagergren, Kate; Fagergren, William",1024 Herbert Avenue,"","",0,"","","","","","",a,306300834,true
+sp18uqoo4,Gary,Gary,Fessenden,Female,m361dojx9,"",940 S Lake St,"","",0,"","","","","","",a,415456103,true
+m361dojx9,Debra,Debra,Brazell,Male,sp18uqoo4,"",940 S Lake St,"","",0,"","","","","","",a,415456103,true
+w84szydsx,Larry,Larry,Fielden,Female,jrrmdpump,"",1000 Lake Street,"","",0,"","","","","","",a,21000522998,true
+jrrmdpump,Tracie,Tracie,Fielden,Male,w84szydsx,"",1000 Lake Street,"","",0,"","","","","","",a,21000522998,true
+5hm9rmtn5,Josh,Josh,Fife,Female,1yd0py29x,"Fife, James Anderson",949 E. 800 S. #1,801-750-5385,fife_8@hotmail.com,0,"","","","","","",a,5676776833,true
+1yd0py29x,Analee,Analee,Fife,Male,5hm9rmtn5,"Fife, James Anderson",949 E. 800 S. #1,801-750-5385,awells04@gmail.com,0,"","","","","","",a,5676776833,true
+d1q02db2n,Adam,Adam,Fifield,Female,wvvuj33ua,"Fifield, Shannon Nicholas; Fifield, Florencia Wislawa","1046 S 900 E, #B","","",0,"","","","","","",a,2720153668,true
+wvvuj33ua,Lisa,Lisa,Fifield,Male,d1q02db2n,"Fifield, Shannon Nicholas; Fifield, Florencia Wislawa","1046 S 900 E, #B","","",0,"","","","","","",a,2720153668,true
+bwlzqj18k,Sean,Sean,Fitzgerald,Female,oyihemk0m,"",963 East 800 S #210,"",shonfitz@gmail.com,0,"","","","","","",a,724887792,true
+oyihemk0m,Jenny,Jenny,Fitzgerald,Male,bwlzqj18k,"",963 East 800 S #210,949-350-2756,"",0,"","","","","","",a,724887792,true
+w0mt4ncgt,Brian,Brian,Flandro,Female,"","",864 S 800 E,"","",0,"","","","","","",a,438270550,true
+c1tsxqvj1,Nathan,Nathan,Florence,Female,fjlio0ozt,"Florence, Maren; Florence, Paul",817 S 800 E,"","",0,"","","","","","",a,2420610959,true
+fjlio0ozt,Marian,Marian,Florence,Male,c1tsxqvj1,"Florence, Maren; Florence, Paul",817 S 800 E,"","",0,"","","","","","",a,2420610959,true
+acnulrpbb,Jared,Jared,Fredrickson,Female,4w8cl4hbs,"",739 S 700 E  #8,"",jared.fredrickson@gmail.com,0,"","","","","","",a,1692765320,true
+4w8cl4hbs,Jessica,Jessica,Fredrickson,Male,acnulrpbb,"",739 S 700 E  #8,970 376-5388,jessicalynn.fredrickson@gmail.com,0,"","","","","","",a,1692765320,true
+fa86kb0v5,Jon,Jon,Fredrickson,Female,zgumgfy20,"",1047 S 700 E,"","",0,"","","","","","",a,454918638,true
+zgumgfy20,Joan,Joan,Fredrickson,Male,fa86kb0v5,"",1047 S 700 E,"","",0,"","","","","","",a,454918638,true
+1g19j89tg,Jay,Jay,Gale,Female,"","",1070 Lincoln Street,"","",0,"","","","","","",a,512446747,true
+ze76fqsbx,Patricia,Patricia,Gale,Female,"","",951 South 800 East,"","",0,"","","","","","",a,5762040287,true
+vudys2s1d,Greg,Greg,Gatrell,Female,hz7vms0vs,"Gatrell, Josilyn; Gatrell, Kylie; Gatrell, Erica",942 S 1100 E,801-949-1890,"",0,"","","","","","",a,1701357723,true
+hz7vms0vs,Alyssa,Alyssa,Gatrell,Male,vudys2s1d,"Gatrell, Josilyn; Gatrell, Kylie; Gatrell, Erica",942 S 1100 E,801-386-6729,gatrells@comcast.net,0,"","","","","","",a,1701357723,true
+didjgxm2n,Helen,Helen,Gee,Female,"","",1064 Lincoln Street,"","",0,"","","","","","",a,513456288,true
+gsoaoorc5,Steven,Steven,Gertsch,Female,"","",754 S Lake St,"","",0,"","","","","","",a,1514121781,true
+q91rs2sx6,Kellie,Kellie,Gibson,Female,"","",859 S 900 E,"","",0,"","","","","","",a,796591744,true
+ck9opur5i,Pam,Pam,Gibson,Female,"","",912 South 1000 East,"","",0,"","","","","","",a,509796579,true
+7l6nk3nnt,Rebecca,Rebecca,Gibson,Female,"","",859 S 900 E,"","",0,"","","","","","",a,796592727,true
+47agoffeg,Kimball,Kimball,Gillis,Female,p86sdbcte,"",1011 Belmont Ave.,"","",0,"","","","","","",a,512114493,true

@@ -1,0 +1,16 @@
+user_id,pref_name,first_name,last_name,gender,spouse_id,children,street_address,phone_number,email_address,ments_count,receives,stat1,stat2,assign_ments,teachers_ment,comment,which_photo,lds_id,lds_vals
+user001,KC,Kay,Erb,Male,user002,"",752 E. 800 S. APT 17,801-554-8253,,1,true,"","",0xb51141p,sdqru496l,"OK, these guys are super awesome! Super reliable and very friendly.",b,5690149565,true
+user002,Shelyse,Shelyse,Hardy,Female,user001,"",752 E. 800 S. APT 17,,lysehardy@gmail.com,0,true,"","","","",super awesome,a,6081369803,true
+user003,Rick,Rick,Wilde,Male,user004,"",949 E 800 S #12,"",,2,true,"","","l0rqs34j4,s44p98pj1",ment001,"Cute Bunnies!! And what's more, they are fluffly and nice haha haha ha!",a,6002476189,true
+user004,Sarah,Sarah,Wilde,Female,user003,"",949 E 800 S #12,,"",1,true,"","",l0rqs34j4,"","",a,6093068486,true
+user005,Oliver,Oliver,Proegler,Male,"","",1046 Lincoln St,801-361-4526,,1,false,"","","","",Oliver is German! But that doesn't mean he doesn't like yous.,b,18756570901,true
+ihufup4do,Cory,Cory,Erb,Male,p8ojciihu,"Erb, Adele","",801-554-8254,cory.erb@gmail.com,1,true,"","",0xb51141p,"",Feigned Flying Felines Fixate Few Females.,b,"",true
+p8ojciihu,Sharlie,Sharlie,Erb,Female,ihufup4do,"Erb, Adele",,"",sharcor@mail.com,0,"","","","","","",a,"",true
+769iezufc,James,Jamison,Hall,Male,pz6qef0b9,"","",,"",1,true,"","","",ment001,comments,a,"",true
+pz6qef0b9,Caitlin,Caitlin,Hall,Female,769iezufc,"",,"","",0,"","","","","","",a,"",true
+d2dvp1qnn,Josh,Joshua,Moreland,Male,a7sk6ocsq,"",764 S 1000 E,832-865-9959,,1,true,"","",s44p98pj1,ment001,"",a,19682416332,true
+a7sk6ocsq,Ashley,Ashley,Moreland,Female,d2dvp1qnn,"",764 S 1000 E,,ashley.moreland29@gmail.com,0,"","","","","","",a,24597305253,true
+8xwsg5tks,Jami,Jami,Baayd,Female,gx81wykbk,"Baayd, Amira Elizabeth; Baayd, Norah Aziza; Baayd, Naim Joseph",1041 McClelland St.,,"",0,"","","","","","",a,717341301,true
+gx81wykbk,Mohamed,Mohamed,Baayd,Male,8xwsg5tks,"Baayd, Amira Elizabeth; Baayd, Norah Aziza; Baayd, Naim Joseph",1041 McClelland St.,801-358-0254,,0,true,"","",ment001,0xb51141p,"",a,8276083430,true
+ov7worhsx,Dan,Daniel,Allen,Male,u0dn1d1q6,"",958 S 800 E,435-512-2364,,1,true,"","",ment001,"","",a,1568891592,true
+u0dn1d1q6,Megan,Megan,Allen,Female,ov7worhsx,"",958 S 800 E,,mardi_zaza@yahoo.com,0,"","","","","","",a,1276709587,true
